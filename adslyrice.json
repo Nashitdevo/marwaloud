@@ -1,0 +1,236 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 0,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
+        
+        "FacebookBanner"      : "",
+        "FacebookInterstitial": "",
+        "FacebookNative"      : ""
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": false,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "Songs Soprano offline",
+      "packageName": "com.Bonheur.Soprano.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/kumMolPORFaitk-5ehbr19ejsfYknE0RtcfHqBCxuheqJWDS2skr0wG0W0lO1pISK7c=w240-h480-rw",
+      "download": "+50K"
+    },
+    {
+      "name": "Songs Kendji Girac offline",
+      "packageName": "com.Overstood.Glorilla.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/BgbAkB_LIjx350U7STT8ryEhx-xwXXH48L-ttTViE4dRXr8Wx36vxu-w_jQZx7-j7w=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Koba LaD offline",
+      "packageName": "com.Ladkoba.FreestyleBMF.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/ubbsH3bEdBLfOaFIj3WN-zI7MJxCbC8wHLkOPv3nvsuqVte2nvsZO6L8fjuC-HzH1Ds=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Tayc offline",
+      "packageName": "com.Poseidon.Tayc.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/XyTiZ-FoRrTDWYk9uKDazM2Ia-vbcjFraElHCNKazZ55bm8PAHfapKH8s5g9MvvP6Qw=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Sangs Aya Nakamura Offline",
+      "packageName": "com.hype.nakamuraaya.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/WC3naiMjVPl2b7gmvAUYuFDZaoxBR_5tJO1MB24qPlxQV3Eb6oHuksiDOHPw5Yn3y64=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Niska offline",
+      "packageName": "com.Coco.Niska.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/ZgyMTJ_EDD4985ap3OUzeo30ZmV43Za2V12kFZVaZPlSaJJTHee33qjx13agVam_H70=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Imen Es offline",
+      "packageName": "com.EsImen.Ladies.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/hfaMei2TzM3v_ReE12ROeBLWe49kCdTxTMNFF3kO7cGJtWPrKQ66lXFw5wX5AZD-1fY=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Faouzia offline",
+      "packageName": "com.Faouzia.RIPLove.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/kGwgDtuZ5GyMZpq1Lmvnc7_BF2LwzQAytc0RoAIr8pE70s4VF6becMuog0-c_5ioBh4=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Ronisia offline",
+      "packageName": "com.Ronisia.Atterrissage.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/L81eTs0Ep8KiXIC8B_nyIq3kvvhIFK7lpHCOZb-G3ESJJheQs_zXh-VWPmKOKx71lyxA=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Katy Perry offline",
+      "packageName": "com.Katy.Perry.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/d6-4SvDk43oXWpQ6Rnc5F0JUDmSVce9ecxV0DMXs1JboKiJ0JgHDRXIbDs_j3MErcQ=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Ninho offline",
+      "packageName": "com.Ninho.NoLove.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/1dST45xhrqkgIsm2hyNjHVNzxszLA-5t0UUNikA_8f_1FifrCKYajcwpilB4TLDQ4j4=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Songs Rihanna offline",
+      "packageName": "com.Rihanna.NeededMe.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/fuBfwzit7F5tPrCw1g0pkb9n9SsnTkaHfmlDEb2gGIZnOwJjvb71V8Chtq9PgVkOHdk=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Maitre Gims offline",
+      "packageName": "com.maitree.gimss.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/CIaTDYINhppjHp58rbDsE74bbof_TH8icmC3k32H56VYfBC6phrOwEuSOdvLnralC8Fy=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Dadju offline",
+      "packageName": "com.Dadju.makilawable.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/BZxO2dsWDINgdbJE6-1V4J__-DDpRFlBaku3dqiH2h4bY7fbjcw8RfhPyKk9lR3cOg=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Shakira offline",
+      "packageName": "com.Shakira.Amarillo.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/unr5XcRdK4m4xl1ocQyurC2jdXFQ6O2Dr2fXcuTnEhQfrzdRTkut3MvMf2lhOrrH3P4=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Karol G offline",
+      "packageName": "com.KarolG.Culpables.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/ij57aUM9EFBZqGRBN5Nb_MgxWFQx3tl_BwFM2pv2_jGKgb4d2t7gTa8o_-EN50CBKYI=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Songs Beyoncé offline",
+      "packageName": "com.Beyonce.Blackbird.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/fBK7pSDFYp1uv8AN1-4xaOcn_t9UfbQPEQwbi-lvIDEr80Ldb0z3rwhIN8rYKsq9x5U=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Fally Ipupa offline",
+      "packageName": "com.Ipupafally.Migrants.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/7sCyWbE-En9WxmdghWLFkTDLz3JuFB3N35UgzUStwG4bJkS6-L4jpEV9i_QObUQsXA=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs JuL offline",
+      "packageName": "com.Piccolo.Jul.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/3WG1nkS8V2h2w-quUiDuix1mn0bPYbymprO1aQtfSeQhPZRYNjSlqbFUtfX9wyelhyTO=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Dark offline",
+      "packageName": "com.Exchange.Drake.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/VnvCCNAebdWQchRNRllUcm4IVWUm4atzRz_x5Hnw-A98w2UBFDp5kAnKPhNgKtXWcw=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Céline Dion offline",
+      "packageName": "com.Celine.Dion.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/SJY0tYAkB7Jd1RTBTO81U2-hu7Xhg1o1ME9XH5i3J932Xcvq56qJkDHWRxl_mAK8Pg=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Chansons françaises offline",
+      "packageName": "com.Chansons.Francaise.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/oiq3FCJbZlU1Qk27hsHrPFbflI23uBdJPRKuGuKbpUEjP36qkH6nQOOQIvH1zBKF-w=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Songs XXXTentacion offline",
+      "packageName": "com.Mankik.XXtentacion.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/oYxPL8yyyuNvQ2K2cs5Q_NxKgHiwa7arbK_Bcl-ZaxKb3Qd5JuDeuLKCtuaxhftY7g=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs David Guetta offline",
+      "packageName": "com.David.Guetta.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/LZVViTuaiktuq6PtAFSk21jgf1DCoAyyKUBUxkDC6ejSyh3A8dMq_8ttq_DUDTrAu7Zb=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Lady Gaga offline",
+      "packageName": "com.Lady.Gaga.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/sIEGBFx3XTck8WcAjjZvAy5HwnZAstgwnbmUbcG6er0G0aL01RprxhshZ1dKVazkuNY=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Indila offline",
+      "packageName": "com.Indila.Carrousel.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/hPNQ_A5hYZxh0O5Z1IUQCob_g9OJCfSZEGeU7ybbHeJ97GNSBMkZsWleSA7sxhobJDc7=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Bob marley offline",
+      "packageName": "com.The.Weekend.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/9JlQ5DnsJzIH_6hd7r489MAxMM_EoS7p2aFw6uJWcWuszELW1YDLLdTRxL74QjMfBb0=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Songs Tayna offline",
+      "packageName": "com.Tanya.Columbiana.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/i7FsuqEsP3ErklSQ19ujL7DbtoDez_-eq5mPWKqqaT7e21oHysn4TlRlnTei8zhMfZqW=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Michael Jackson offline",
+      "packageName": "com.MICHAEL.JACKSON.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/FkzpW1Q9Q1JsanQk6vUa4guRNA53mruUVZogt1DnvoUr9ssnbCM3VTcsIJbeamtxM1k=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Britney Spears offline",
+      "packageName": "com.Briney.Spearsc.nashitdevo",
+      "icon": "https://play-lh.googleusercontent.com/rMiJzp9Ag85XRx9QGxcrb2P_Rp2fYzsLmQTh9nsIMLSk7lU9wQnWROgzSwpMb6_9wGj0=w240-h480-rw",
+      "download": "+500 Million"
+    }
+    
+  ]
+  
+}
